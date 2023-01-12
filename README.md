@@ -60,4 +60,6 @@ I am a Full Stack .Net Developer <img src="https://media.giphy.com/media/WUlplcM
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahsonsheikh&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsonsheikh)](https://github.com/anuraghazra/github-readme-stats)
